@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    /*
+
     //calculo del factorial de un numero
     int n;
     int resultadoFactorial=1;
@@ -37,7 +37,6 @@ int main(){
            cout<<i2<<" ";
         }   
     }
-    */
 
     //numeros impares con while
     int num2=0;
