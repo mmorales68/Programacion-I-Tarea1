@@ -37,13 +37,13 @@ int main(){
            cout<<i2<<" ";
         }   
     }
-
+    
     //numeros impares con while
     int num2=0;
     int c2=1;
 
     while(num2<10 || num2>30){
-        cout<<"Ingrese un numero mayor a 10 y menor que 30"<<endl;
+        cout<<endl<<"Ingrese un numero mayor a 10 y menor que 30"<<endl;
         cin>>num2;
     }
 
